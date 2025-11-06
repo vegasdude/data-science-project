@@ -1,0 +1,22 @@
+data-science-project/
+│
+├── data/
+│   ├── raw/             # unprocessed data
+│   └── processed/       # cleaned or transformed data
+│
+├── notebooks/
+│   ├── 01_exploration.ipynb   # data exploration
+│   ├── 02_modeling.ipynb      # model training/testing
+│   └── 03_visualization.ipynb # graphs & plots
+│
+├── src/
+│   ├── data_preparation.py    # cleaning functions
+│   ├── model_training.py      # ML pipeline code
+│   └── visualization.py       # plotting functions
+│
+├── models/
+│   └── trained_model.pkl      # saved models (optional)
+│
+├── requirements.txt           # list of Python dependencies
+├── README.md                  # project overview
+└── .gitignore                 # ignore unnecessary files
