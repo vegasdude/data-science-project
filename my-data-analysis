@@ -1,0 +1,8 @@
+data-science-project/
+│
+├── data/              # datasets (CSV, JSON, etc.)
+├── notebooks/         # Jupyter notebooks (.ipynb)
+├── src/               # Python scripts or modules
+├── models/            # saved models (.pkl, .h5)
+├── requirements.txt   # Python dependencies
+└── README.md          # project overview
